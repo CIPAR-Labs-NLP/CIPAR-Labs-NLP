@@ -1,7 +1,6 @@
 # Welcome to CIPAR Labs NLP 👋
 
 <p align="center">
-  ![comment] <img src="CiparLabs.png" width="512" height="384">
   <img src="CiparLabs_large.png" width="744" height="384">
 </p>
 
