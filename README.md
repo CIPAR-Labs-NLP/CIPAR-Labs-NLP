@@ -4,9 +4,7 @@
   <img src="CiparLabs.png" width="450" height="450">
 </p>
 
-![CIPAR Labs NLP](CiparLabs.png) <!-- Replace with the URL of your image -->
-
-CIPAR Labs NLP is your hub for innovative projects and research in Natural Language Processing (NLP). Our mission is to explore, develop, and share tools and methodologies to analyze, understand, and generate human language.
+CIPAR Labs NLP is your hub for innovative projects and research in Natural Language Processing (NLP), Neural Networks and Large Language Models. Our mission is to explore, develop, and share tools and methodologies to analyze, understand, and generate human language.
 
 ---
 
@@ -21,16 +19,18 @@ Projects focused on automatic text classification, such as:
 Projects exploring natural language generation techniques:
 - **Chatbots**: Implementing neural network-based dialog systems.
 - **Text Summarization**: Automatic summary generation.
+- **Retrieval Augmented Generation**: Advanced RAG chatbots
 
-### 🌍 **3. Multilingual NLP**
-Research aimed at processing texts in multiple languages:
-- **Machine Translation**: Models for accurate translations.
-- **Multilingual NER**: Named Entity Recognition in various languages.
+### 🌍 **3. Structural Language Analysis**
+Research aimed at processing texts with structural analysis:
+- **Morphology, Syntax, Grammar**: Text characterized by structural indexes.
+- **Content and Complexity**: Content analysis through text embedding, Mutlitfractal and Recurrent Quantification Analysis.
 
 ### 📊 **4. Datasets and Benchmarks**
 Creating and sharing annotated datasets for specific purposes:
 - Classification datasets.
 - Benchmarks to evaluate NLP models.
+- Benchmarks to evaluate LLMs texts.
 
 ---
 
@@ -44,9 +44,9 @@ We welcome you to explore our repository and contribute to improving our project
 
 ## 📬 **Contact Us**
 For more information, feel free to reach out:
-- **Email**: [ciparlabs@example.com](mailto:ciparlabs@example.com)
-- **Website**: [CIPAR Labs Official](https://sites.google.com/uniroma1.it/cipar-labs/)
-- **LinkedIn**: [CIPAR Labs](https://www.linkedin.com/company/ciparlabs/)
+- **Email**: [ciparlab@gmail.com.com](mailto:ciparlab@gmail.com)
+- **Website**: [CIPAR Labs Official]([https://sites.google.com/uniroma1.it/cipar-labs/](https://sites.google.com/uniroma1.it/cipar-labs/))
+- **LinkedIn**: [CIPAR Labs]([https://www.linkedin.com/company/ciparlabs/](https://www.linkedin.com/company/ciparlabs/))   
 
 ---
 
