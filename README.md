@@ -47,7 +47,7 @@ For more information, feel free to reach out:
 - **Email**: [ciparlab@gmail.com.com](mailto:ciparlab@gmail.com)
 - **Website**: [CIPAR Labs Official](https://sites.google.com/uniroma1.it/cipar-labs/)
 - **LinkedIn**: [CIPAR Labs](https://www.linkedin.com/company/ciparlabs/)
-- **GitHub companion **: [GitHub CIPAR-Labs](https://github.com/CIPARLAB)
+- **GitHub companion**: [GitHub CIPAR-Labs](https://github.com/CIPARLAB)
 ---
 
 Thank you for visiting our repository! 🎉
