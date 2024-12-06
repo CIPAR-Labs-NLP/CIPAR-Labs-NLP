@@ -1,5 +1,8 @@
 # Welcome to CIPAR Labs NLP 👋
-<img src="CiparLabs.png" width="350" height="350">
+
+<p align="center">
+  <img src="CiparLabs.png" width="450" height="450">
+</p>
 
 ![CIPAR Labs NLP](CiparLabs.png) <!-- Replace with the URL of your image -->
 
