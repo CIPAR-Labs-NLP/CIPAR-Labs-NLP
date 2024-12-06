@@ -1,6 +1,7 @@
 # Welcome to CIPAR Labs NLP 👋
+<img src="CiparLabs.png" width="10" height="10">
 
-![CIPAR Labs NLP](CiparLabs.png | width=100) <!-- Replace with the URL of your image -->
+![CIPAR Labs NLP](CiparLabs.png) <!-- Replace with the URL of your image -->
 
 CIPAR Labs NLP is your hub for innovative projects and research in Natural Language Processing (NLP). Our mission is to explore, develop, and share tools and methodologies to analyze, understand, and generate human language.
 
