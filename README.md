@@ -45,8 +45,8 @@ We welcome you to explore our repository and contribute to improving our project
 ## 📬 **Contact Us**
 For more information, feel free to reach out:
 - **Email**: [ciparlab@gmail.com.com](mailto:ciparlab@gmail.com)
-- **Website**: [CIPAR Labs Official]([https://sites.google.com/uniroma1.it/cipar-labs/](https://sites.google.com/uniroma1.it/cipar-labs/))
-- **LinkedIn**: [CIPAR Labs]([https://www.linkedin.com/company/ciparlabs/](https://www.linkedin.com/company/ciparlabs/))   
+- **Website**: [CIPAR Labs Official](https://sites.google.com/uniroma1.it/cipar-labs/)(https://sites.google.com/uniroma1.it/cipar-labs/)
+- **LinkedIn**: [CIPAR Labs](https://www.linkedin.com/company/ciparlabs/)(https://www.linkedin.com/company/ciparlabs/)
 
 ---
 
