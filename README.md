@@ -30,7 +30,7 @@ Research aimed at processing texts with structural analysis:
 Creating and sharing annotated datasets for specific purposes:
 - Classification datasets.
 - Benchmarks to evaluate NLP models.
-- Benchmarks to evaluate LLMs texts.
+- Benchmarks to evaluate LLM texts.
 
 ---
 
