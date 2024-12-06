@@ -17,13 +17,13 @@ Projects focused on automatic text classification, such as:
 
 ### 🗣️ **2. Language Generation**
 Projects exploring natural language generation techniques:
-- **Chatbots**: Implementing neural network-based dialog systems.
+- **Chatbots**: Implementing neural network-based dialog systems (LLMs).
 - **Text Summarization**: Automatic summary generation.
 - **Retrieval Augmented Generation**: Advanced RAG chatbots
 
 ### 🌍 **3. Structural Language Analysis**
 Research aimed at processing texts with structural analysis:
-- **Morphology, Syntax, Grammar**: Text characterized by structural indexes.
+- **Morphology, Syntax, Grammar**: Text characterization by suitable structural indexes.
 - **Content and Complexity**: Content analysis through text embedding, Mutlitfractal and Recurrent Quantification Analysis.
 
 ### 📊 **4. Datasets and Benchmarks**
